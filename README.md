@@ -1,4 +1,4 @@
-# CSKubaGamePP-
+# CSKubaGamePP
 A class-based game in Python based on the board game Kuba.
 
 This file contains a class that that allows a game of Kuba to be played, including initializing
